@@ -6,3 +6,4 @@
 - NLTK
 - AllenNLP
 - DeepPavlov
+- NERDA
